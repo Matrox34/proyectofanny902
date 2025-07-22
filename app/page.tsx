@@ -10,7 +10,7 @@ export default function Home() {
       <div className="bg-white rounded-2xl shadow-2xl w-full max-w-md p-8 space-y-6">
         <div className="flex flex-col items-center gap-4">
           <Image src="/img1.webp" alt="Metro Logo" width={64} height={64} />
-          <h1 className="text-2xl font-bold text-gray-800">Acceso al Portal del Metro</h1>
+          <h1 className="text-2xl font-bold text-gray-800">Acceso al Portal del Metro del grupo de sistemas 902</h1>
           <p className="text-sm text-gray-500">Selecciona tu rol e inicia sesión</p>
         </div>
 
